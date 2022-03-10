@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Estudiar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Practicar JS",
+        "estado": "pendiente"
+        },
+    {
+        "titulo": "Hacer un proyecto de JS",
+        "estado": "en progreso"
+    }
+]
