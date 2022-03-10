@@ -1,4 +1,7 @@
-const tareasJSON = require('./leerTareas');
+const funcionesDeTareas = require ("./funciones/funcionesDeTareas");
+funcionesDeTareas();
+
+/*const tareasJSON = require('./leerTareas');
 
 //Obtengo la palabra que necesito en la ejecucion de node app.js listar
 let accion = process.argv[??];
@@ -30,4 +33,4 @@ switch (accion) {
 
 // listarTerminadas
 
-// listarPenndiente
+// listarPenndiente*/
